@@ -23,7 +23,7 @@ For more information, see the online wiki: http://sourceforge.net/p/tuxdroidserv
 2. INSTALL THE UDEV RULE:
 ---------------------------------
 
-** !! This step needs to be done as root !! **
+**!! This step needs to be done as root !!**
 
 For Fux (USB dongle TuxDroid) to be correctly recognized, you have to
 add a rule to udev and restart udev.
@@ -39,7 +39,7 @@ and restart your udev service.
 3. REMOVAL OF RULE UDEV:
 ------------------------------------
 
-** !! This step needs to be done as root !! **
+**!! This step needs to be done as root !!**
 
 If you want to uninstall the udev rule you can do with the
 following command:
