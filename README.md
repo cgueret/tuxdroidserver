@@ -1,5 +1,5 @@
-tuxdroidserver
-==============
+ Tux Droid Server
+==================
 
 Plus d'informations peuvent être trouvées [ici][2]
 
